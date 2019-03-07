@@ -13,4 +13,6 @@ React
 4. *Redux*: Emits state updates in response to actions
 5. *Redux-Thunk*: Middleware used to handle asynchronous actions in Redux
 
-
+**Further Improvements:**
+1. Data validation or business rules have not been added. In case required, it can be implemented.
+2. API status message is currently displayed in the console. If required, it can be displayed to user on the web page.
