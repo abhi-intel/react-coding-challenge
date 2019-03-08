@@ -1,5 +1,7 @@
 # EACodingTest
 
+**Date:** 08 March 2019
+
 **Info:**
 This web application is developed to meet the requirement of EA Coding Test. This application is designed to consume the web API, process the data as per the test requirements and then display the final data.
 
@@ -16,3 +18,6 @@ React
 **Further Improvements:**
 1. Data validation or business rules have not been added. In case required, it can be implemented.
 2. API status message is currently displayed in the console. If required, it can be displayed to user on the web page.
+
+**Contact:**
+Email: abhishekgupta07@yahoo.com
